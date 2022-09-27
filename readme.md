@@ -1,3 +1,3 @@
 https://polite-faloodeh-cefb3e.netlify.app/
 
-Changed to NACHRICHTEN becouse of API disfunction
+Changed to NACHRICHTEN because of API disfunction
